@@ -1,0 +1,22 @@
+{
+  "name": "apipractice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayra-tellez/apiPractice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mayra-tellez/apiPractice/issues"
+  },
+  "homepage": "https://github.com/mayra-tellez/apiPractice#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.9"
+  }
+}
